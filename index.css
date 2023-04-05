@@ -37,6 +37,12 @@ a {
     color: rgb(96, 255, 149);
 }
 
+a:hover {
+    color: rgb(255, 96, 96);
+    text-decoration: wavy underline rgb(255, 230, 230);
+    background-color: rgb(255, 252, 252);
+}
+
 h2 {
     align-items: center;
     text-align: center;
