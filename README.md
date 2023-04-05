@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, and welcome to hell b!tch👋
 
 <!--
 **zekrice/zekrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
